@@ -4,7 +4,7 @@
   "description": "This is the Node.js SDK for the MLChain API, which allows you to easily integrate MLChain into your Node.js applications.",
   "main": "index.js",
   "type": "module",
-  "types":"index.d.ts",
+  "types": "index.d.ts",
   "keywords": [
     "Mlchain",
     "MLChain",
